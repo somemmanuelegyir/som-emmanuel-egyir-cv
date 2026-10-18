@@ -60,7 +60,7 @@ Connect With Me
 
 View My CV
 
-Open "index.html" in this repository to view the HTML version of my CV.
+Open "som-emmanuel-interactive-cv.html" in this repository to view the HTML version of my CV.
 
 Once GitHub Pages is enabled, this section can include the live website link.
 
